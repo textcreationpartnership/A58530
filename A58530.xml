@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Remonstrance for peace between the Kings Most Excellent Majesty and his two Houses of Parliament ... and the proceedings of His Gracious Majesty and the commissioners touching the treaty : as also, five propositions to the kingdom of England ... : with the oath and covenant of the King to his people concerning jvstice, mercy and trvth : extracted out of the originall copy ...</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58530</idno><idno type="EEBO-CITATION">9601955</idno>
+  <idno type="VID">43773</idno>
+  <idno type="EEBO-PROQUEST">2248504412</idno>
+  
+            <idno type="STC">Wing R978</idno>
+            <idno type="STC">ESTC R26978</idno>
+            <idno type="OCLC">09601955</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58530)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43773)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1339:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Remonstrance for peace between the Kings Most Excellent Majesty and his two Houses of Parliament ... and the proceedings of His Gracious Majesty and the commissioners touching the treaty : as also, five propositions to the kingdom of England ... : with the oath and covenant of the King to his people concerning jvstice, mercy and trvth : extracted out of the originall copy ...</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Whereunto is annexed the declaration of the Scots, the raising of an army of 40000 men, and the reformation of Lieut. Gen. Cromwell and Major Gen. Lambert touching the said army."</note>
+                  <note>Caption title: The declaration of the Committee of Estates of the kingdom of Scotland.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43773:1"/>
+            <pb facs="tcp:43773:1"/>
+            <p>A REMONSTRANCE FOR PEACE, BETWEEN The Kings most excellent Majesty, and his two Houses of Parliament, assembled at <hi>Westminster;</hi> and the procee<g ref="char:EOLhyphen"/>dings of his gracious Majesty, and the Commissioners, touching the Treaty; As also, five Propositions to the Kingdom of <hi>England,</hi> concerning the power of her dread Soveraign the <hi>King,</hi> and the Representative Body of this Na<g ref="char:EOLhyphen"/>tion: With the Oath and Covenant of the King to his people, concerning PEACE, JVSTICE, MERCY, and TRVTH.</p>
+            <p>
+               <hi>EXtracted out of the originall Copy, for the joy and tranquility of all his Majesties loving Subjects within the Kingdom of</hi> England, <hi>and Domi<g ref="char:EOLhyphen"/>nion of</hi> Wales.</p>
+            <p>Whereunto is annexed, the Declaration of the Scots; the raising of an Army of 40000. men, and the Resolution of Lieut. Gen. <hi>Cromwell,</hi> and Major Gen. <hi>Lambert,</hi> touching the said Army.</p>
+            <figure>
+               <figDesc>English coat of arms, circa 1648</figDesc>
+               <p>C R</p>
+               <p>HONI SOIT QVI MAL Y PENSE</p>
+            </figure>
+            <p>
+               <hi>London Printed for R. W. Anno Dom.</hi> 1648,</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:43773:2"/>
+            <pb n="1" facs="tcp:43773:2"/>
+            <head>THE DECLARATION OF THE COMMITTEE of ESTATES OF THE KINGDOM of SCOTLAND, FOR The raising of 40000. Horse and Foot, and the Resolution of Lieutenant Gen. <hi>Cromwell,</hi> and Colonell Generall <hi>Lambert</hi> to fight them, if any attempt be made against <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>Right Honored,</salute>
+            </opener>
+            <p>THe Cōmittee of Estates conveened at <hi>Edenburgh,</hi> have declared their Resolutions to raise an Army of 40000. Horse and Foot, to be divided into 80. Regiments, for defence and preservation of their own Kingdom, (as they pretend) But its believed, that upon Lieut. Gen. <hi>Cromwells</hi> approach near the Borders, the Clergy and the Marquess of <hi>Argyle</hi> will prevail with the Kingdom of <hi>Scotland,</hi> for a happy complyance, and deli<g ref="char:EOLhyphen"/>ver the treacherous and perfidious Revolters to justice.</p>
+            <pb n="2" facs="tcp:43773:3"/>
+            <p>The Earl of <hi>Leven</hi> denies to joyn in the Hamiltonian Ingagement, and Lieut. Gen. <hi>David Lesly,</hi> leaves no wayes unattempted, to promote the work of the Church.</p>
+            <p>
+               <hi>Monro</hi> lies with his Army near the Borders, but in great straights, the <hi>English Musgraves</hi> begins to tremble, and all those who have happened active, for the propaga<g ref="char:EOLhyphen"/>ting of the said work, are like to be brought to justice, the Lieut. Gen. useth his u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>most en<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>evours to interpose a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d retard their marching towards <hi>Edenburgh,</hi> and to that end endeavours to get between <hi>M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nro,</hi> and the said City, <hi>Mon<g ref="char:EOLhyphen"/>roe</hi> declines fighting, but our men somtimes forceth them to it.</p>
+            <p>Col. Gen. <hi>Lambert</hi> had lately blocked up <hi>Carlisle,</hi> but upon a Letter from the Lieutenant Gen, he drew off, and is now marching towards the Borders of <hi>Scotland.</hi> A con<g ref="char:EOLhyphen"/>junction may be had between both Armies, when the 2. Generalls pleaseth, the Souldiers are unanimous and re<g ref="char:EOLhyphen"/>solved to fight the new levied forces of <hi>Scotland,</hi> if any attempt be made against <hi>England.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Durham</hi>
+                  <date>
+                     <hi>the</hi> 14. <hi>of September.</hi> 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="text">
+            <head>A Remonstranee <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etween the Kings most excellent Majesty, and his loyall and fai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hfull Subjects of England.</head>
+            <p>COurt flat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell the people of <hi>Acts of Grace,</hi> as our Saviour tells his Apostles of worldly Potentates, that whatsoever they do, be it right or wrong, all men must count them <hi>Gracious Lords,</hi> and Graces may be from them as good men, and they may merit well, as all worthy men do that serve their Kingdoms▪ The P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rl. and people in all their Petitions acknowledge many <hi>Acts of Grace,</hi> and it becomes the peoples mouths verie well to praise their <hi>Kings,</hi> but if no Prayers will move him to return to the place where he may continue his <hi>Gracious Acts,</hi> they will
+<pb n="3" facs="tcp:43773:3"/> be so farre from <hi>Graces,</hi> that we may say of them, as we do of works of Super-errogation, they come short of the Law, and so far from merit, that their demerit will undo us, for what shall we be the better for a <hi>Gracious King,</hi> if ungracious men may keepe us from him, and make him war for them against his best Subjects, for if they be not the best that maintain the Parl. (I mean the highest poli<g ref="char:EOLhyphen"/>tick power in the Kingdom) I know not who a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Roya<g ref="char:EOLhyphen"/>lists may be Rebell, as well as Royall power Tyranny, and both may be resisted without fear of d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mnation, so a lawfull politick power command it. Private persons may not resist an usurped power, and if God no where allow that which is <hi>Royall,</hi> then his Majestie may not claim it, but think himself more happy, that he holds such a <hi>Royal power</hi> as is mixed with the <hi>Politike power</hi> of his Kingdom, for he hath the lesse to answer for, and may crave pardon of God for the errours of others which he ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h trusted, and triumph in his Parl. for the discovery of them, and their ready help to give remedies to all wrongs, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight to all that suffer them. We complain of exactions as ex<g ref="char:EOLhyphen"/>tortions, where they cannot be. The Parl. would not call for a penny to inrich it selfe. Not a person but hath spent more of his estate to do others good; then many have done, they desire may have the profit. To answer the Pe<g ref="char:EOLhyphen"/>tition of Right, all that can be said is this, that the King will never exact one penny more for himself, but his people; and now in time of <hi>Parl.</hi> by his <hi>Commission of Ar<g ref="char:EOLhyphen"/>ray,</hi> any thing is taken from his people without their con<g ref="char:EOLhyphen"/>sent, which in <hi>Parl.</hi> might lawfully be had: And in many papers the <hi>Parl.</hi> is accused of wrong, to use their right to require the least of others, and raise the most out of their own estates to save all mens.</p>
+            <pb n="4" facs="tcp:43773:4"/>
+            <p>O ingratitude! and unspeakable shame, and no wayes excusable but by reproaches of the best deserving men. Warres are begun to know who may make them, &amp; they for whom they should be made, are parted to fight a<g ref="char:EOLhyphen"/>gainst themselves, for whether they fight against the King or the Parl. they Warre against themselves, Take truly what we have said, and see where justice resides. Divide the <hi>Royall Power</hi> from the <hi>Politique,</hi> and you fight for a Tyranny, which when the King understands he will have small c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>use to thank them that have carried him from his Parl. To make War upon the <hi>politique power</hi> of any King<g ref="char:EOLhyphen"/>dom is unjust, &amp; he is no good subject that will not stand up to preserve it to the loss of all he hath, &amp; his own life. To fight for the <hi>King</hi> is every mans duty, but take heed how you fight for <hi>Royall power</hi> that destroyes the policies of Kingdoms; and I dare say it had bin better for them to die in Parl. that are departed, then to take up Arm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and die in fight against it; and the King shall never discharge his Office, till he return to perform it where he left it.</p>
+         </div>
+         <div type="text">
+            <head>The Oath of a King to his people.</head>
+            <p>THe <hi>Kings Oath</hi> hath relation to peace and concord, as the end, and all the rest as the means, as <hi>Iudgements, Iustice, Discretion, Mercy, Truth, Lawes,</hi> and <hi>Customs.</hi> Judge<g ref="char:EOLhyphen"/>ments Universall, even righteousness, good discretion, tender mercy, approved Truth, just Lawes, received Cu<g ref="char:EOLhyphen"/>stoms. These the <hi>King</hi> must keep, and cause to be kept, granting and permitting to the People their <hi>electi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> in the two last, which is not of what they have chosen, but shall choose justly and reasonably: For as the King is bound to the things <hi>asked,</hi> so to what may be justly added at any time, and so <hi>pronounced,</hi> he is obliged by his Oath to observe. All the world may wonder at the way preach<g ref="char:EOLhyphen"/>ers
+<pb n="5" facs="tcp:43773:4"/> have taken to set at odds the O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th of the King and his people. The Oath of supremacy is to Divines deceived, or deceiving, an inherent power in the person of the King, without, above, against all his Courts, the high Cou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of Parliament not excepted: nay, least to be regarded, and all this by setting the Royall power against the politique. Can they shew in the Civill law, that Emperours took a<g ref="char:EOLhyphen"/>ny such O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th, as to keep, protect, and confirm Laws and Customs chosen by their people? Or that they had Par<g ref="char:EOLhyphen"/>li<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ments of equall powers to bind all persons, even Kings themselves, to do nothing in a private capacity, but all in courts of justice. I shall marshall both Oaths to<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ether.</p>
+            <p>The Kings Oath is to do Justice, by his Judges in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll cou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts to all his people, in all causes, whether they con<g ref="char:EOLhyphen"/>cerne questions of doubts in law, or complaints of inju<g ref="char:EOLhyphen"/>ries done to any. The people swear to the Kings Supre<g ref="char:EOLhyphen"/>macy in all causes, over all persons, not over all Courts or collective bodies; for in them he is only Supreame, as they handle all causes, not in his Royall power to be over them, as he is over the persons of men, but in them, as they handle all mens causes.</p>
+            <p>We do not say the King is over all causes supream, for that indeed were as Divines say, that the Kings supre<g ref="char:EOLhyphen"/>macy is a power inherent in his person to do any thing by his own authority, without the authority of any court which is contrary to Royall and Politique power, and wholly imperiall &amp; tyrannicall, condemned and protest<g ref="char:EOLhyphen"/>ed against by the Almighty, 1 <hi>Sam.</hi> 8.9▪ and forced up<g ref="char:EOLhyphen"/>on us by the damnable doctri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of Malignant or mist<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ken Divines, who are to be accu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sed by the King and his peo<g ref="char:EOLhyphen"/>ple to make them both perjured and to perish by a bloudy war; for if Royall power be over all causes <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s well as per<g ref="char:EOLhyphen"/>sons:
+<pb n="6" facs="tcp:43773:5"/> Bid adue to all courts of justice, and the Parliament especially; for to speak properly, the Kings Supremacy is only in his high Court of Parliament, as may appear by these reasons. 1. All appeales are made unto it. 2. All re<g ref="char:EOLhyphen"/>peales are made by it. 3. All Laws proceed from it. 4. Are Declared by it. 5. R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ived at the discretion thereof. 6. By this way alone we may appeale from <hi>Caesar</hi> to <hi>Caesar,</hi> and by <hi>Caesar</hi> against <hi>Caesar</hi> reverse any judgment, that is, from <hi>Cesar</hi> in all inferiour Courts we may appeal to <hi>Cesar</hi> in his Parliament; and by <hi>Cesar</hi> in one Parliament, reverse the judgment of <hi>Cesar</hi> in another. And therefore returne (Gracious King) to your Parliament for your Suprema<g ref="char:EOLhyphen"/>cy is not above it, but in it, &amp; wrong you have none, thus to be limited in all Cases, &amp; enlarged over all persons.</p>
+            <p>There be m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny that make all <hi>New Lawes,</hi> Acts of Grace, and the very being of a <hi>Parliament</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he free goodnesse of a King, and Continuance, his meritorious kindnesse. A body called at pleasure, and dissolvable at pleasure. A matt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r of no trust reposed in the Royall power, but a pre<g ref="char:EOLhyphen"/>rogative transcendent, and remedie without right ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ged by the people; be their exigence n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver so great. We may wonder at two expresse Statutes to call every Yeare a Parliament, and aftr if need required; and to be dismis<g ref="char:EOLhyphen"/>sed when all Petitions and grievances were heard and re<g ref="char:EOLhyphen"/>dressed, and yet no common right, By this Reason all the Courts of Justice might be shut up and judgement ad<g ref="char:EOLhyphen"/>ministred when &amp; where the King pleaseth, which makes stil for Royall powe, against that which is Politique▪</p>
+            <p>By letters further from the Isle of <hi>Wyght</hi> it is advertized, That Monday Septemb. 18. The Treaty began, Religion was the first branch insisted on, and it is hoped, (and very probable) that a suddain period will be put to the present distractions of his Ma<g ref="char:EOLhyphen"/>jesties subjects, within his Realms and Dominions.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43773:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
